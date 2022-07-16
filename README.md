@@ -7,8 +7,8 @@ RaspberryPi(64bit)にClamAvのスキャンウルスシェル
 - ClamAV：0.103.6/26603/Sat Jul 16 16:57:28 2022
 
 # 事前準備
-シェルを修正
-mailto=送信先メールアドレス
+- シェルを修正
+  - mailto=送信先メールアドレス
 
-ディレクトリ作成
-隔離先フォルダ：/var/tmp/clamav_infected_files
+- ディレクトリ作成
+  - 隔離先フォルダ：/var/tmp/clamav_infected_files
