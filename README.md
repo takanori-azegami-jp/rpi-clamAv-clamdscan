@@ -1,4 +1,4 @@
-# rpi-clamAv-clamdscan
+# rpi-clamav-clamdscan
 RaspberryPi(64bit)にClamAvのスキャンウルスシェル
 
 # 環境
